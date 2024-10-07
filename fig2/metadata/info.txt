@@ -1,0 +1,8 @@
+P-pol 160mW input power before cryo window
+
+Measurement with free space coupled Maya2000pro (coll. lens UVFS40, FS25, thin KG3)
+
+
+thin KG3 glas is 1mm thick, did regular spectra at 290K
+then:
+Used 202mW p-pol input power with thick KG3 filter before spectrometer
