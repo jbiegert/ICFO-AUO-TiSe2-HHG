@@ -1,0 +1,17 @@
+low power, 77mW out of PCF -> 31mW at Cryo window entrance
+
+
+no KG3, ppol after Ge and then HWP for scan
+
+scan03 goes with Thorlabs_Power1
+with HWP -> Ge45deg -> rotated HWP
+
+Focus on Thorlabs powermeter
+
+Temp. scans
+Thorlabs_Power2 is scan04, cool down
+Thorlabs_Power3 is scan05, heat up
+Thorlabs_Power4 is scan06, cool down
+...
+Thorlabs_Power6 with scan08, cool down
+
